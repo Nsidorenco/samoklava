@@ -187,13 +187,13 @@ outlines:
         type: circle
         anchor:
           - ref: matrix_outer_home
-            shift: [0.5 kx, 0.6 ky]
+            shift: [0.5 kx, 0.55 ky]
         radius: 1.05
       bottom_left:
         type: circle
         anchor:
           - ref: matrix_outer_home
-            shift: [0.5 kx, -0.35 ky]
+            shift: [0.5 kx, -0.55 ky]
         radius: 1.05
       top_right:
         type: circle
