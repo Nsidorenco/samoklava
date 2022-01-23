@@ -186,13 +186,13 @@ outlines:
       top_left:
         type: circle
         anchor:
-          - ref: matrix_ring_home
+          - ref: matrix_pinky_home
             shift: [-0.5 kx, 0 ky]
         radius: 1.05
       bottom_left:
         type: circle
         anchor:
-          - ref: matrix_outer_bottom
+          - ref: matrix_outer_home
             shift: [0.5 kx, 0]
         radius: 1.05
       top_right:
